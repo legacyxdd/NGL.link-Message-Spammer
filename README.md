@@ -10,5 +10,5 @@ DISCLAIMER: This spammer was made to joke around with your friends. I am NOT res
 - Change your directory to this repository:
 ```cd NGL.link-Message-Spammer```
 
-- Finally, run the code (It will also download the requirements):\n
+- Finally, run the code (It will also download the requirements): \n
 ```python3 Spammer.py```
